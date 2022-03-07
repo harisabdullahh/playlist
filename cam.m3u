@@ -1,0 +1,2 @@
+#EXTINF:-1 group-title="Home Camera",Camera 1
+rtsp://admin:URQCST@192.168.1.148:554/H.264
